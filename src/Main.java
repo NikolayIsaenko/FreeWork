@@ -28,7 +28,7 @@ public class Main {
         travel = travel * onePlace;
         System.out.println(travel);
 
-        System.out.println(" Путевка стоит - 375.300 руб. При скидке в 7% стоимость упадёт до  " + travelsell1 + ". При заказе доп.места надо будет доплатить - " + travel);
+        System.out.println(" Путевка стоит - 375.300 руб.! При скидке в 7% стоимость упадёт до  " + travelsell1 + ". При заказе доп.места надо будет доплатить - " + travel);
 
 
 
